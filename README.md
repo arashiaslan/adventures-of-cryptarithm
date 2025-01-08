@@ -5,3 +5,6 @@ Download APK and install on your phone
 
 ## Demo
 https://www.youtube.com/watch?v=UD7nNTXfGv0&t=507s
+
+## Capture
+![SS-1](CAPTURE.png)
